@@ -1,0 +1,19 @@
+:root {
+  // --getter-x: 10px;
+}
+
+$text_color: #000000;
+$text_color-light: #ffffff;
+
+
+
+$default-font: "OpenSans-Regular";
+
+$media-breackpoints: (
+  "desctop": 1400px,
+  "laptop-l": 1200px,
+  "tablet-l": 992px,
+  "tablet":   768px,
+  "mobile-l": 425px,
+  "mobile-s": 375px,
+);
